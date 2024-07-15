@@ -26,5 +26,10 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
