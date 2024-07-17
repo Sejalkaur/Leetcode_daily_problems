@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Math
+|  |
+| ------- |
+| [3371-harshad-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3371-harshad-number) |
 <!---LeetCode Topics End-->
