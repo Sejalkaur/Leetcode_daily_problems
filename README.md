@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 ## Stack
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
 ## Tree
 |  |
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [3371-harshad-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3371-harshad-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
