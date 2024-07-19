@@ -6,6 +6,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 ## Stack
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
