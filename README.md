@@ -9,6 +9,7 @@
 | [0948-sort-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1511-count-number-of-teams) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
