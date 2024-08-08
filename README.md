@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+| [0921-spiral-matrix-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -45,6 +46,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0921-spiral-matrix-iii) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -118,6 +120,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2472-build-a-matrix-with-conditions) |
