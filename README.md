@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0921-spiral-matrix-iii) |
@@ -140,6 +141,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
