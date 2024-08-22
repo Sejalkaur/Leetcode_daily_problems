@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0476-number-complement) |
 ## Dynamic Programming
 |  |
 | ------- |
