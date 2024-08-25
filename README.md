@@ -76,6 +76,7 @@
 | [0131-palindrome-partitioning](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
+| [0564-find-the-closest-palindrome](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0870-magic-squares-in-grid) |
