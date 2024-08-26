@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 ## Sorting
@@ -95,6 +96,7 @@
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -109,6 +111,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
