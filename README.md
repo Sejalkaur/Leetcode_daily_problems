@@ -281,4 +281,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1240-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
