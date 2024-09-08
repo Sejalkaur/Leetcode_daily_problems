@@ -294,6 +294,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
