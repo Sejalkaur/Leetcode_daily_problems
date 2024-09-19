@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0564-find-the-closest-palindrome) |
@@ -134,6 +135,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0564-find-the-closest-palindrome) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1196-filling-bookcase-shelves) |
@@ -256,6 +259,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0273-integer-to-english-words) |
 ## Union Find
 |  |
@@ -297,4 +301,8 @@
 | [0725-split-linked-list-in-parts](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
