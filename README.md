@@ -24,6 +24,7 @@
 | [1511-count-number-of-teams](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -79,6 +80,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1240-stone-game-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
