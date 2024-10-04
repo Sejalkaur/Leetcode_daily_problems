@@ -29,7 +29,7 @@ public:
         
         while(temp!= NULL){
             cnt++;
-            if(cnt == len-k)break; 
+            if(cnt == len-k)break; //5-2=3 3rd node is now the last one
             else{
                 temp = temp->next;
             }
