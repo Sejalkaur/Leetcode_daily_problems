@@ -16,8 +16,8 @@ public:
         int len =1;
         //now tail is at last node
         while(tail->next != NULL){
-             tail = tail->next;
             len++;
+             tail = tail->next;
             
         }
         if(k%len == 0)return head; // bcz it will return the same list 
