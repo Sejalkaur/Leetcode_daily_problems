@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -98,6 +99,7 @@
 | [0273-integer-to-english-words](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -113,6 +115,7 @@
 | [0061-rotate-list](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
@@ -265,6 +268,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Recursion
 |  |
