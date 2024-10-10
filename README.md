@@ -15,6 +15,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1256-rank-transform-of-an-array) |
@@ -49,6 +50,7 @@
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1002-maximum-width-ramp) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
