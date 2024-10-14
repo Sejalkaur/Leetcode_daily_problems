@@ -40,6 +40,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -212,6 +213,7 @@
 | [0890-lemonade-change](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
@@ -238,6 +240,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1325-path-with-maximum-probability) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
