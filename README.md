@@ -111,6 +111,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2163-kth-distinct-string-in-an-array) |
