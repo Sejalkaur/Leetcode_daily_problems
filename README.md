@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0040-combination-sum-ii) |
@@ -177,6 +178,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0907-koko-eating-bananas) |
@@ -238,6 +240,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
