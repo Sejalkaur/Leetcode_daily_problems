@@ -46,6 +46,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -126,6 +127,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -338,6 +340,7 @@
 | [1240-stone-game-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
 |  |
 | ------- |
