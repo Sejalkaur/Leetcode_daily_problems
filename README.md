@@ -49,6 +49,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -108,6 +109,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -198,6 +200,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0476-number-complement) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
