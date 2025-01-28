@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0890-lemonade-change) |
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1256-rank-transform-of-an-array) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0870-magic-squares-in-grid) |
@@ -141,6 +144,7 @@
 | [0061-rotate-list](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
@@ -191,6 +195,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
