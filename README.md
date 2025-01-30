@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0039-combination-sum) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
