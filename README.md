@@ -55,6 +55,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3429-special-array-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
