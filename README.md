@@ -34,6 +34,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2035-count-sub-islands) |
