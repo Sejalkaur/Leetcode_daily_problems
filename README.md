@@ -74,6 +74,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3447-clear-digits](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
