@@ -72,6 +72,7 @@
 | [1002-maximum-width-ramp](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3447-clear-digits) |
@@ -97,6 +98,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2155-find-missing-observations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -145,6 +147,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2502-sort-the-people) |
