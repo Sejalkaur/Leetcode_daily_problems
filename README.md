@@ -26,6 +26,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -209,6 +210,7 @@
 | [0650-2-keys-keyboard](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3371-harshad-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3371-harshad-number) |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -374,6 +378,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2358-number-of-ways-to-split-array) |
