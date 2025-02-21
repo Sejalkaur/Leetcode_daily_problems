@@ -120,6 +120,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -195,6 +198,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0999-regions-cut-by-slashes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2035-count-sub-islands) |
@@ -327,6 +331,7 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0999-regions-cut-by-slashes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -357,6 +362,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
