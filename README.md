@@ -51,6 +51,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -104,6 +105,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2155-find-missing-observations) |
+| [2551-apply-operations-to-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -172,6 +174,7 @@
 | [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
+| [2551-apply-operations-to-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
 |  |
