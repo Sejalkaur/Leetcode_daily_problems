@@ -45,6 +45,7 @@
 | [2155-find-missing-observations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -106,6 +107,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2846-robot-collisions) |
@@ -176,6 +178,7 @@
 | [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
