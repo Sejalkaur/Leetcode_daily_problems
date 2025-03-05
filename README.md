@@ -226,6 +226,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3371-harshad-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3371-harshad-number) |
 ## Binary Search
 |  |
