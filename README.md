@@ -51,6 +51,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -245,6 +246,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0476-number-complement) |
+| [2478-longest-nice-subarray](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2478-longest-nice-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -356,6 +358,7 @@
 | [0567-permutation-in-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
