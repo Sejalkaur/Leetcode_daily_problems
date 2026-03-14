@@ -157,6 +157,7 @@
 | [0726-number-of-atoms](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -395,6 +396,7 @@
 | [0039-combination-sum](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/0131-palindrome-partitioning) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sejalkaur/Leetcode_daily_problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Prefix Sum
 |  |
 | ------- |
